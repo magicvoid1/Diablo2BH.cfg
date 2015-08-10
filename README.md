@@ -5,6 +5,11 @@ Things left to fix: Unique non-weapons on the map, good magical items, crafting 
 
 Thanks to Underbent and Rob for the BH and the base config.
 
+Stuff used for the modifications:  
+https://github.com/underbent/slashdiablo-maphack  
+https://github.com/underbent/slashdiablo-maphack/wiki   
+https://github.com/slippittydo/slashdiablo-maphack  
+
 Install Rob's 0.1.5S and replace the config.
 
 Changes:
