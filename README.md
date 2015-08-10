@@ -1,15 +1,21 @@
 # Diablo2BH.cfg
 Custom MapHackConfig for SlashDiablo
 
+Things left to fix: Unique non-weapons on the map, good magical items, crafting items(including gems), LLD items.
+
+Thanks to Underbent and Rob for the BH and the base config.
+
 Install Rob's 0.1.5S and replace the config.
 
 Changes:
 
-Used colors are Red/Orange/Yellow/Green/Blue/Purple/White
+Used colors on map are Red/Orange/Gold/Yellow/Green/Blue/Purple/White
 
 Red:Um-Gul
 
 Orange:Crafting/Spirit/Insight Runes(TIR,ITH,TAL,RAL,ORT,THUL,AMN,SOL,HEL,KO,LEM,PUL)
+
+Gold:Uniques that should be picked
 
 Yellow:Rares that are worth identifying
 
