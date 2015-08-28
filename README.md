@@ -32,3 +32,5 @@ Blue:Magical items that can roll something useful/valuable
 Purple:Vex/Ohm+ and extra special items
 
 White:RuneWord bases
+
+Black:LLD items(lines provided by Jeebus)
