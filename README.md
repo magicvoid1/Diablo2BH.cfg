@@ -15,9 +15,9 @@ Install Rob's 0.1.5S and replace the config.
 
 Changes:
 
-Used colors on map are Red/Orange/Gold/Yellow/Green/Blue/Purple/White
+Used colors on map are Red/Orange/Gold/Yellow/Green/Blue/Purple/White/Gray/Black
 
-Red:Um-Gul
+Red:Um-Gul, Mid uniques
 
 Orange:Crafting/Spirit/Insight Runes(TIR,ITH,TAL,RAL,ORT,THUL,AMN,SOL,HEL,KO,LEM,PUL)
 
@@ -29,8 +29,10 @@ Green:IK armor,Tal armor, griswold set items, Rune names
 
 Blue:Magical items that can roll something useful/valuable
 
-Purple:Vex/Ohm+ and extra special items
+Purple:Vex/Ohm+ and best items
 
 White:RuneWord bases
+
+Gray:Low items and runes that are still useful
 
 Black:LLD items(lines provided by Jeebus)
