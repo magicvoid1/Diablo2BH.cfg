@@ -15,13 +15,15 @@ Install Rob's 0.1.5S and replace the config.
 
 Changes:
 
+Made BH-soft.cfg that has uniques/set items on separate lines for easy modifying
+
 Used colors on map are Red/Orange/Gold/Yellow/Green/Blue/Purple/White/Gray/Black
 
 Red:Um-Gul, Mid value items
 
 Orange:Crafting/Spirit/Insight Runes(TIR,ITH,TAL,RAL,ORT,THUL,AMN,SOL,HEL,KO,LEM,PUL)
 
-Gold:Lenymo, Facets and Unique Jewlery
+Gold:Lenymo,some uniques that would be better if they were etheral, Facets and Unique Jewlery
 
 Yellow:Rares that are worth identifying
 
