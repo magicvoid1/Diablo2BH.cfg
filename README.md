@@ -3,8 +3,11 @@ Custom MapHackConfig for SlashDiablo
 
 Versions:
 BH.cfg - default with items grouped and comments
+
 BH-soft.cfg - items with individual lines sorted by the slot they can be equiped in, each item has a comment
+
 BH-hard.cfg - items grouped losely by type and the slot they can be equiped in, each group of items has a comment
+
 BH-bare.cfg - items grouped losely, soon to be reduced in size to improve performance(aiming for <13KB), lacks comments
 
 
