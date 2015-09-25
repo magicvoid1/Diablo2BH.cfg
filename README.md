@@ -1,6 +1,14 @@
 # Diablo2BH.cfg
 Custom MapHackConfig for SlashDiablo
 
+Versions:
+BH.cfg - default with items grouped and comments
+BH-soft.cfg - items with individual lines sorted by the slot they can be equiped in, each item has a comment
+BH-hard.cfg - items grouped losely by type and the slot they can be equiped in, each group of items has a comment
+BH-bare.cfg - items grouped losely, soon to be reduced in size to improve performance(aiming for <13KB), lacks comments
+
+
+
 Things left to fix: good magical item(while shopping), LLD items.
 
 Thanks to Underbent and Rob for the BH and the base config.
@@ -14,8 +22,6 @@ https://github.com/slippittydo/slashdiablo-maphack
 Install Rob's 0.1.5S and replace the config.
 
 Changes:
-
-Made BH-soft.cfg that has uniques/set items on separate lines for easy modifying
 
 Used colors on map are Red/Orange/Gold/Yellow/Green/Blue/Purple/White/Gray/Black
 
