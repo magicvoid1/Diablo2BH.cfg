@@ -1,0 +1,12 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Battle.net\Configuration]
+"Diablo II Battle.net Gateways"=hex(7):31,30,30,32,00,30,31,00,70,6c,61,79,2e,73,6c,61,\
+73,68,64,69,61,62,6c,6f,2e,6e,65,74,00,2d,36,00,\
+73,6c,61,73,68,00,65,76,6e,74,2e,73,6c,61,73,68,\
+64,69,61,62,6c,6f,2e,6e,65,74,00,38,00,45,76,65,\
+6e,74,00,00
+
+[HKEY_CURRENT_USER\Software\Blizzard Entertainment\Diablo II]
+"CmdLine"="-skiptobnet"
+"BNETIP"="play.slashdiablo.net"
